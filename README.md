@@ -128,20 +128,17 @@ For further information on the Docker images being used to run containers on the
 192.168.50.3
 ```
 
-## Feedback and further development
-
-If this role didn't work for you, or if you found some bug during the execution,
-let me know. 
-
-Feel free to open a [feature request, an issue](https://github.com/macunha1/confluent-kafka-role/issues), or to send me a Pull request, I will be happy to colaborate.
-
 ## Built With
 
 - [Ansible](https://www.ansible.com/) - Simple IT Automation
 - [Confluent Kafka Package](https://www.confluent.io/) - Kafka for the Enterprise
 
-## Authors
+## Contribute
 
-- [**Matheus Cunha** ](https://github.com/macunha1)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-See also the list of [contributors](https://github.com/macunha1/confluent-kafka-role/contributors) who participated in this project.
+- Feel free to fill [an issue with feature request(s)](https://github.com/macunha1/confluent-kafka-role/issues), or to send me a Pull request, I will be happy to collaborate.
+- If this role didn't work for you, or if you found some bug during the execution, let me know.
+
+Thanks to these contributors for making this role better
+[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/0)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/0)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/1)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/1)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/2)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/2)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/3)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/3)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/4)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/4)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/5)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/5)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/6)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/6)[![](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/images/7)](https://sourcerer.io/fame/macunha1/macunha1/confluent-kafka-role/links/7)
